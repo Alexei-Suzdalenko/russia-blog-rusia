@@ -1,1 +1,2 @@
-index.php
+<?php 
+ echo 'alexei suzdalenko.com';
